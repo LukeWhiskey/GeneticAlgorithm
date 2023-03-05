@@ -1,0 +1,15 @@
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\bin\Debug\net7.0\TargetStringGenAlg.exe
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\bin\Debug\net7.0\TargetStringGenAlg.deps.json
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\bin\Debug\net7.0\TargetStringGenAlg.runtimeconfig.json
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\bin\Debug\net7.0\TargetStringGenAlg.dll
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\bin\Debug\net7.0\TargetStringGenAlg.pdb
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.csproj.AssemblyReference.cache
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.AssemblyInfoInputs.cache
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.AssemblyInfo.cs
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.csproj.CoreCompileInputs.cache
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.dll
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\refint\TargetStringGenAlg.dll
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.pdb
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\TargetStringGenAlg.genruntimeconfig.cache
+C:\Users\MCFox\OneDrive\Desktop\TargetStringGenAlg\TargetStringGenAlg\obj\Debug\net7.0\ref\TargetStringGenAlg.dll
